@@ -1,6 +1,6 @@
 # Wu11-VTC
 
-This code collection reproduces part of the images and Table 2 in the paper "A Tight Lower Bound on the Gaussian Q -Function With a Simple Inversion Algorithm, and an Application to Coherent Optical Communications”. The detailed information is on the website "https://ieeexplore.ieee.org/document/8353222".  
+This code collection reproduces part of the images and Table 2 in the paper "A Tight Lower Bound on the Gaussian Q -Function With a Simple Inversion Algorithm, and an Application to Coherent Optical Communications”. Detailed information about the paper is on the website "https://ieeexplore.ieee.org/document/8353222".  
 
 
 
